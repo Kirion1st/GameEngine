@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-glfw.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-glfw-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-glfw-natives-macos.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-glfw.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-glfw-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-glfw-natives-macos.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-glfw-natives-windows.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-natives-macos.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-natives-macos.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/GameEngine/lwjgl/lwjgl-natives-windows.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
