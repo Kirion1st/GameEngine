@@ -10,5 +10,9 @@
 	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-natives-macos.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-opengl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-opengl-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-opengl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-opengl-natives-windows.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
